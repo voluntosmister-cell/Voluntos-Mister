@@ -44,7 +44,42 @@
 
 			]
 		},
+            {
+		"name": "Otros canales M+",
+		"image": "https://bandaancha.eu/s/2ox3/140/movistar-ti.jpg",
+		"imageScale": "",
+		"info":"",
+		"stations":
+			[
+				
+				{
+				"name": "M.Acción [1080]",
+				"info":"2ab78 (cambiar)",
+				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+				},
+                {
+				"name": "M. Estrenos + [1080]",
+				"info":"89f4",
+				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+				"url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4"
+                },
+               {
+				"name": "One Toro [1080]",
+				"info":"b933b",
+				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+				"url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b"
+                },
 
+               {
+				"name": "Caza y pesca [1080]",
+				"info":"b0f70",
+				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+				"url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70"
+                }
+
+			]
+		},
 		
 		
 		{
