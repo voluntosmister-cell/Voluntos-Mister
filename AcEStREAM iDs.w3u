@@ -3,7 +3,7 @@
 "name": "AcEStREAM MV",
 "author": "Mister Voluntos",
 "url": "https://raw.githubusercontent.com/voluntosmister-cell/Voluntos-Mister/refs/heads/main/AcEStREAM%20iDs.w3u",
-"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"image": "https://i.postimg.cc/5th3FPFD/Captura-de-pantalla-2026-04-20-114017.png",
 "telegram":"",
 "info": "Lista de Ids. bY. Lukas, New Era, Sport TV y NanoWork",
 "groups": 
@@ -18,7 +18,7 @@
 				
 				{
 				"name": "MOVISTAR PLUS + [1080]",
-				"info":"2ab78 (cambiar)",
+				"info":"(cambiar)",
 				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
 				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
 				},
@@ -229,9 +229,9 @@
 				},
 				{
 				"name": "M. Liga de Campeones [720]",
-				"info": "d49c",
+				"info": "e7439",
 				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-				"url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c"
+				"url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439"
 				},
 				{
 				"name": "M. Liga de Campeones 2 [1080]",
