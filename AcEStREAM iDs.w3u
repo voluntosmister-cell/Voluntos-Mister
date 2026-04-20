@@ -90,16 +90,16 @@
 		"stations":
 			[
 				{
-				"name": "DAZN LaLiga [1080][Multiaudio]",
+				"name": "DAZN LaLiga [1080][CAMBIAR TODOS]",
 				"info": "290a",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
+				"url": "acestream://"
 				},
 				{
 				"name": "DAZN LaLiga [1080][Multiaudio]",
-				"info":"0c96",
+				"info":"2f0bc",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
+				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
 				},
 				{
 				"name": "DAZN LaLiga [720p]",
@@ -127,39 +127,39 @@
 				},
 				{
 				"name": "M+ LaLiga Tv [1080]",
-				"info": "2280",
+				"info": "f33y",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+				"url": "acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y"
 				},
 				{
-				"name": "M+ LaLiga Tv [1080][Multiaudio]",
-				"info": "b02f",
+				"name": "M+ LaLiga Tv [1080][Sportv]",
+				"info": "19e38",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"
+				"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
 				},
 				{
-				"name": "M+ LaLiga Tv [1080][Multiaudio]",
-				"info": "e833",
+				"name": "M+ LaLiga Tv [1080][Shickat]",
+				"info": "2929",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"
+				"url": "acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929"
 				},
 				{
-				"name": "M+ LaLiga Tv [720p]",
-				"info": "08d8",
+				"name": "M+ LaLiga Tv [1080]",
+				"info": "19e38",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"
+				"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
 				},
 				{
 				"name": "M+ LaLiga Tv 2 [1080]",
-				"info": "05bc",
+				"info": "033fe",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"
+				"url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe"
 				},
 				{
 				"name": "M+ LaLiga Tv 2 [720p]",
-				"info": "56a0",
+				"info": "1176",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"
+				"url": "acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176"
 				}
 				
 			]
@@ -370,28 +370,34 @@
 		"stations":
 			[
 				{
-				"name": "DAZN F1 [UHD]",
-				"info": "4041",
+				"name": "DAZN F1 [1080]",
+				"info": "4be2",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
+				"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
 				},
 				{
 				"name": "DAZN F1 [1080]",
-				"info": "3f4d",
+				"info": "10b5f",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://5789ca155323664edd293b848606688edf803f4d"
+				"url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f"
 				},
 				{
 				"name": "DAZN F1 [1080]",
-				"info": "3dd5",
+				"info": "1bb29",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
+				"url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
 				},
 				{
-				"name": "DAZN F1 [720]",
-				"info": "65c2",
+				"name": "DAZN F1 [1080]",
+				"info": "7494",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+				"url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+				}
+                {
+				"name": "DAZN F1 [SD]",
+				"info": "84aee",
+				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+				"url": "acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee"
 				}
 			]
 		},
