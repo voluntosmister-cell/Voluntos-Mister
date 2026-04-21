@@ -89,10 +89,10 @@
 		"stations":
 			[
 				{
-				"name": "DAZN LaLiga [1080][CAMBIAR TODOS]",
+				"name": "DAZN LaLiga [1080]NE VI",
 				"info": "290a",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "acestream://"
+				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
 				},
 				{
 				"name": "DAZN LaLiga [1080][Multiaudio]",
