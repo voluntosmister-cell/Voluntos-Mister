@@ -95,13 +95,20 @@
 				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
 				},
 				{
-				"name": "DAZN LaLiga [1080][Multiaudio]",
+				"name": "DAZN LaLiga [1080][EC]",
 				"info":"2f0bc",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
 				},
+               {
+				"name": "DAZN LaLiga [1080][m3u]",
+				"info":"2f0bc",
+				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+				"url": "https://vigilantsecurityhub.com:443/live/andrea/3UMkA2jV5Syd/c92c59d3-f639-48ef-9866-6a95e89e6eb6.ts
+"
+				},
 				{
-				"name": "DAZN LaLiga [720p]",
+				"name": "DAZN LaLiga [m3u]",
 				"info":"1914",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 				"url": "https://vigilantsecurityhub.com:443/live/andrea/3UMkA2jV5Syd/c6737077-be38-4457-b650-6e84e5199581.ts"
