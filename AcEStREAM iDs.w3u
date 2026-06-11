@@ -44,39 +44,44 @@
 			]
 		},
             {
-		"name": "Otros canales M+",
-		"image": "https://bandaancha.eu/s/2ox3/140/movistar-ti.jpg",
+		"name": "Canales Mundial fútbol",
+		"image": "https://i.postimg.cc/P5hQqqKS/il-1140x-N-8016804732-fsnd.webp",
 		"imageScale": "",
 		"info":"",
 		"stations":
 			[
 				
 				{
-				"name": "M.Acción [1080]",
-				"info":"d905d",
-				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d"
+				"name": "DAZN 1 Mundial [1080]",
+				"info":"f0bc",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
 				},
                 {
-				"name": "M. Estrenos + [1080]",
-				"info":"ab0803",
-				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://007a97a0aff68eb9a76f7fb9d9643b1532ab0803"
+				"name": "DAZN 1 Mundial [1080]",
+				"info":"496a",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
                 },
                {
-				"name": "One Toro [1080]",
-				"info":"b933b",
-				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://536c879d8a914e43141d778b3567fa017c9f5eeb"
+				"name": "DAZN 2 Mundial[1080]",
+				"info":"9122",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://a7ab6d2c40b253fee9d908a5fc6618acb53a9122"
                 },
 
                {
-				"name": "Caza y pesca [1080]",
-				"info":"f8caa",
-				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa"
+				"name": "BEING SPORT (FR)]",
+				"info":"3fe0",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+                },
+               {
+				"name": "ITV 1 (UK)",
+				"info":"9122",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://acestream://bf85d2226ffb0999dd035db614e90f2af23cfa9b"
                 }
-               
 			]
 		},
 		
