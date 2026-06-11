@@ -86,7 +86,7 @@
 				"name": "ITV 1 (UK)",
 				"info":"fa9b",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://acestream://bf85d2226ffb0999dd035db614e90f2af23cfa9b"
+				"url": "acestream://bf85d2226ffb0999dd035db614e90f2af23cfa9b"
                 }
 			]
 		},
@@ -122,7 +122,7 @@
 				"name": "DAZN LaLiga/Mundial [720]",
 				"info":"f0bc2",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "acestream:/71cb5e2567a8b39f5bdc4fa791992781b052f0bc" 
+				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc" 
 				},
 				{
 				"name": "DAZN LaLiga [1080]",
