@@ -76,9 +76,15 @@
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
                 },
+
+				"name": "Match TV (Russia)",
+				"info":"9122",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://4ae89a4340b80b6f65085affb8d70d40f241e033"
+                },
                {
 				"name": "ITV 1 (UK)",
-				"info":"9122",
+				"info":"fa9b",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://acestream://bf85d2226ffb0999dd035db614e90f2af23cfa9b"
                 }
@@ -87,7 +93,7 @@
 		
 		
 		{
-		"name": "LA LIGA EA SPORT y MUNDIAL FÚTBOL",
+		"name": "LA LIGA EA SPORT",
 		"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
 		"imageScale": "",
 		"info":"fútbol",
