@@ -63,24 +63,13 @@
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
                 },
-                {
-				"name": "DAZN 1 Mundial[1080]",
-				"info":"d507",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
-                },
-                {
-				"name": "DAZN 1 Mundial[1080]",
-				"info":"c936",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36"
-                },
                {
 				"name": "DAZN 2 Mundial[1080]",
 				"info":"9122",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://a7ab6d2c40b253fee9d908a5fc6618acb53a9122"
                 },
+
                {
 				"name": "BEING SPORT (FR)]",
 				"info":"3fe0",
@@ -88,14 +77,10 @@
 				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
                 },
                {
-				"name": "Directv Sports (Latinoamerica)",
-				"info":"m3u",
+				"name": "MATCH TV (Russia)",
+				"info":"9122",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-                 "referer" : "https://streamtpday1.xyz/",
-                  "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-                   "embed": "true",
-                   "isHost":"true"
+				"url": "acestream://4ae89a4340b80b6f65085affb8d70d40f241e033"
                 }
 			]
 		},
