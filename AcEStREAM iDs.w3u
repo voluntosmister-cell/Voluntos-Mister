@@ -6,7 +6,7 @@
 "telegram":"",
 "info": "Lista de Ids. bY. Lukas, New Era, Sport TV y NanoWork",
 "groups": 
-	[
+	
 		{
 		"name": "Movistar Plus+",
 		"image": "https://static.eldiario.es/clip/175e46a8-1d3b-45b9-91e9-8ece5a728e56_16-9-discover-aspect-ratio_default_0.jpg",
@@ -81,7 +81,7 @@
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://a7ab6d2c40b253fee9d908a5fc6618acb53a9122"
                 },
-               {
+               
 				"name": "BEING SPORT (FR)]",
 				"info":"3fe0",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
@@ -108,8 +108,8 @@
                    "embed": "true",
                    "isHost":"true"
                 }
-			]
-		},
+			
+		
 		
 		
 		{
