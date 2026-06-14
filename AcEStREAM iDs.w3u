@@ -6,7 +6,7 @@
 "telegram":"",
 "info": "Lista de Ids. bY. Lukas, New Era, Sport TV y NanoWork",
 "groups": 
-	
+	[
 		{
 		"name": "Movistar Plus+",
 		"image": "https://static.eldiario.es/clip/175e46a8-1d3b-45b9-91e9-8ece5a728e56_16-9-discover-aspect-ratio_default_0.jpg",
@@ -81,24 +81,13 @@
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://a7ab6d2c40b253fee9d908a5fc6618acb53a9122"
                 },
-               
+               {
 				"name": "BEING SPORT (FR)]",
 				"info":"3fe0",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
                 },
                {
-              "name": "Directv Sports",
-        "info":"[DSport (LATAM)]",
-        "online":"true",
-        "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",        
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-        "referer" : "https://streamtpday1.xyz/",
-        "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-        "embed": "true",
-        "isHost":"true"
-        },
-
 				"name": "Directv Sports (Latinoamerica)",
 				"info":"m3u",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
@@ -108,8 +97,8 @@
                    "embed": "true",
                    "isHost":"true"
                 }
-			
-		
+			]
+		},
 		
 		
 		{
@@ -512,7 +501,7 @@
 				}
 			]
 		}
-	 
-
+	] 
+}
 		
 		
