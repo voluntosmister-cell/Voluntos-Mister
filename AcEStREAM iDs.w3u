@@ -88,8 +88,7 @@
 				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
                 },
                {
-
-              "name": "Directv Sports",
+ "name": "Directv Sports",
         "info":"[DSport (LATAM)]",
         "online":"true",
         "image": "https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/06/12/6a2c1b757ab00bcbb20ac88e.webp",        
@@ -100,7 +99,7 @@
         "isHost":"true"
 
         },
-
+          {
 				"name": "Directv Sports (Latinoamerica)",
 				"info":"m3u",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
