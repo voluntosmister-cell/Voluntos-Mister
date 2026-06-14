@@ -99,20 +99,19 @@
         "isHost":"true"
 
         },
-          {
-				"name": "Directv Sports (Latinoamerica)",
-				"info":"m3u",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-                 "referer" : "https://streamtpday1.xyz/",
-                  "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
-                   "embed": "true",
-                   "isHost":"true"
+				{
+        "name": "Telemundo",
+        "info":"[Telemundo]",
+        "online":"true",
+        "image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",        
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+        "referer" : "https://streamtpday1.xyz/",
+        "url": "https://sudamericaplay2.com/canal_8112/74telemundo.html",
+        "embed": "true",
+        "isHost":""
+        
                 }
 			]
-		},
-		
-		
 		{
 		"name": "LA LIGA EA SPORT y MUNDIAL FÚTBOL",
 		"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
