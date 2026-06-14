@@ -88,6 +88,7 @@
 				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
                 },
                {
+
               "name": "Directv Sports",
         "info":"[DSport (LATAM)]",
         "online":"true",
@@ -97,6 +98,7 @@
         "url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "embed": "true",
         "isHost":"true"
+
         },
 
 				"name": "Directv Sports (Latinoamerica)",
