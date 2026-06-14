@@ -88,10 +88,10 @@
 				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
                 },
                {
-				"name": "MATCH TV (Russia)",
-				"info":"9122",
+				"name": "Directv Sports (Latinoamerica)",
+				"info":"m3u",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://4ae89a4340b80b6f65085affb8d70d40f241e033"
+				"url": "https://sudamericaplay2.com/canal_8112/cza_dsports.html"
                 }
 			]
 		},
