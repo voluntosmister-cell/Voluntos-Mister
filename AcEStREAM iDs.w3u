@@ -50,7 +50,20 @@
 		"info":"",
 		"stations":
 			[
-				
+             {
+				"name": "DAZN 1 Mundial [1080]",
+				"info":"9b36",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36"
+
+				},
+				{
+				"name": "DAZN 1 Mundial [1080]",
+				"info":"5418",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418"
+
+				},
 				{
 				"name": "DAZN 1 Mundial [1080]",
 				"info":"f0bc",
