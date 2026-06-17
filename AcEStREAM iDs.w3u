@@ -19,13 +19,13 @@
 				"name": "MOVISTAR PLUS + [1080] EC",
 				"info":"0056",
 				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4"
+				"url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70"
 				},
                 {
 				"name": "MOVISTAR PLUS + [1080]",
 				"info":"ab78",
 				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4"
+				"url": "acestream://67121cbb722b88ce4489717e9a87a26f60184ec9"
                 },
                {
 				"name": "MOVISTAR PLUS + [1080]",
@@ -82,7 +82,12 @@
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://a7ab6d2c40b253fee9d908a5fc6618acb53a9122"
                 },
-
+                {
+				"name": "Football World Cup [1080]",
+				"info":"9998",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://868dda4f1fba69b9a1a1c920d765c09bdf3a9998"
+                },
                {
 				"name": "BEING SPORT (FR)]",
 				"info":"3fe0",
