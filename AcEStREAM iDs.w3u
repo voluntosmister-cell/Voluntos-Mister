@@ -68,25 +68,31 @@
 				"name": "DAZN 1 Mundial [1080]",
 				"info":"f0bc",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
+				"url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
 				},
                 {
 				"name": "DAZN 1 Mundial [1080]",
 				"info":"496a",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+				"url": "acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065"
                 },
                {
 				"name": "DAZN 2 Mundial[1080]",
 				"info":"9122",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://a7ab6d2c40b253fee9d908a5fc6618acb53a9122"
+				"url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989"
                 },
                 {
-				"name": "Football World Cup [1080]",
+				"name": "Directv Sport + 1[1080]",
 				"info":"9998",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://868dda4f1fba69b9a1a1c920d765c09bdf3a9998"
+				"url": "acestream://79e6e01eb3db42e3da2428895181c0d32e4abd1f"
+                },
+                {
+				"name": "Directv Sport 1[1080] LAT",
+				"info":"ad49",
+				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+				"url": "acestream://1b25b195b1b84d4b96830410657718e9e275ad49"
                 },
                {
 				"name": "BEING SPORT (FR)]",
@@ -95,10 +101,10 @@
 				"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
                 },
                {
-				"name": "MATCH TV (Russia)",
+				"name": "Directv Sport 2(LAT)",
 				"info":"9122",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://4ae89a4340b80b6f65085affb8d70d40f241e033"
+				"url": "acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061"
                 }
 			]
 		},
