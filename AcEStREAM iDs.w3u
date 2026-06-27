@@ -408,33 +408,33 @@
 			[
 				{
 				"name": "DAZN F1 [1080]",
-				"info": "4be2",
+				"info": "(1)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
+				"url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
 				},
 				{
 				"name": "DAZN F1 [1080]",
-				"info": "10b5f",
+				"info": "(2)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f"
+				"url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
 				},
 				{
 				"name": "DAZN F1 [1080]",
-				"info": "1bb29",
+				"info": "(3)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
+				"url": "acestream://20086a76248efe8d5230c15d41c69bae8fa6381c"
 				},
 				{
 				"name": "DAZN F1 [1080]",
-				"info": "7494",
+				"info": "(4)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+				"url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
 				},
                 {
-				"name": "DAZN F1 [SD]",
-				"info": "84aee",
+				"name": "DAZN F1 [4K]",
+				"info": 4K",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://4bc6f4cb6697c1defc981c0afe1a4c3a62284aee"
+				"url": "acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d"
 				}
 			]
 		},
