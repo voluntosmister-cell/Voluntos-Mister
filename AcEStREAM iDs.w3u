@@ -38,7 +38,9 @@
 				"name": "MOVISTAR PLUS + [1080]",
 				"info":"0056",
 				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://fa931cbc87dc9d66fdd30a9644e054b403960056"
+				"url": #EXTINF:-1 tvg-id="Movistar.Plus+.es" tvg-name="ES: MOVISTAR PLUS+ FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | GENERALISTAS",ES: MOVISTAR PLUS+ FHD
+                       http://melones.bollo.hofcepesp1.top:8080/es2221758090117329/5c02cc24e71f/76251"
+
                 }
 
 			]
