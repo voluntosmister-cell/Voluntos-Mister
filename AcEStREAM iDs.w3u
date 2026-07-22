@@ -1,4 +1,5 @@
-{
+
+			{
 "name": "AcEStREAM MV",
 "author": "Mister Voluntos",
 "url": "https://raw.githubusercontent.com/voluntosmister-cell/Voluntos-Mister/refs/heads/main/AcEStREAM%20iDs.w3u",
@@ -40,7 +41,7 @@
 				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
 				"url": 
 
-                }
+                null}
 
 			]
 		},
@@ -443,7 +444,7 @@
 				},
                 {
 				"name": "DAZN F1 [4K]",
-				"info": 4K",
+				"info": "4K",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
 				"url": "acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d"
 				}
