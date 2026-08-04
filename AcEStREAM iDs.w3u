@@ -51,21 +51,20 @@
 		"info":"",
 		"stations":
 			[
-             {
+               {
 				"name": "Directv Sports",
 				"info":"9b36",
+                 "online": "true",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
                 "url": "https://www.tvporinternet2.com/directv-sports-en-vivo-por-internet.php"
                  "embed": "",
                  "isHost": "true"
-
 				},
 				{
 				"name": "ESPN en vivo",
 				"info":"5418",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "https://www.tvporinternet2.com/espn-en-vivo-por-internet.php"
-
 				},
 				{
 				"name": "DAZN 1 Mundial [1080]",
