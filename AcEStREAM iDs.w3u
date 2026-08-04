@@ -52,13 +52,15 @@
 		"stations":
 			[
                {
-				"name": "Directv Sports",
-				"info":"9b36",
-                 "online": "true",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-                "url": "https://www.tvporinternet2.com/directv-sports-en-vivo-por-internet.php",
-                 "embed": "",
-                 "isHost": "true"
+				"name": "DSport",
+                 "info": "[]",
+                  "online": "true",
+                   "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
+                    "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+                   "url": "https://latamplay1.click/channel/dsports.html",
+                   "embed": "true",
+                 "isHost": ""
+
 				},
 				{
 				"name": "ESPN en vivo",
