@@ -183,15 +183,15 @@
 				},
 				{
 				"name": "M+ LaLiga Tv [1080][M3u]",
-				"info": "9f74",
+				"info": "",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.php"
 				},
 				{
-				"name": "M+ LaLiga Tv [1080] EC",
-				"info": "89947",
+				"name": "PREMIER SPORTS 1 UK / LA LIGA ES",
+				"info": "",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+				"url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
 
 				},
 				{
@@ -438,12 +438,16 @@
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
 				"url": "https://dlhd.st/stream/stream-537.php"
 				},
-				{
-				"name": "DAZN F1 [m3]",
-				"info": "(4)",
-				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "https://zonatvlive.xyz/tvtodo/daznf1.php"
-				},
+				 {
+      "name": "DaznF1",
+      "info": "[online]",
+      "online": "true",
+      "image": "",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "url": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.php",
+      "embed": "",
+      "isHost": "true"
+                },
                 {
 				"name": "DAZN F1 [m3]",
 				"info": "5",
