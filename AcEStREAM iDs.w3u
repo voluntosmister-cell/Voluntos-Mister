@@ -171,27 +171,27 @@
 				},
 				{
 				"name": "M+ LaLiga Tv [1080]",
-				"info": "d74ae",
+				"info": "1",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
 				},
 				{
 				"name": "M+ LaLiga Tv [1080]",
-				"info": "f33y",
+				"info": "2",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": "acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y"
 				},
 				{
-				"name": "M+ LaLiga Tv [1080][]",
-				"info": "19e38",
+				"name": "M+ LaLiga Tv [1080]",
+				"info": "3",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
+				"url": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7"
 				},
 				{
-				"name": "M+ LaLiga Tv [1080][M3u]",
-				"info": "",
+				"name": "M+ LaLiga Tv [1080]",
+				"info": "4",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.php"
+				"url": ""
 				},
 				{
 				"name": "PREMIER SPORTS 1 UK / LA LIGA ES",
@@ -262,21 +262,21 @@
 			[
 				{
 				"name": "M. Liga de Campeones [1080] Sport tv",
-				"info": "f370",
+				"info": "1",
 				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 				"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 				},
 				{
-				"name": "M. Liga de Campeones [1080] EC",
-				"info": "6920",
+				"name": "M. Liga de Campeones [1080]",
+				"info": "2",
 				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 				"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
 				},
 				{
 				"name": "M. Liga de Campeones [1080]",
-				"info": "",
+				"info": "3",
 				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-				"url": "acestream:/"
+				"url": "acestream:/97df5b7824948972d041d8ca2a4d29c90b641bc9"
 				},
 				{
 				"name": "M. Liga de Campeones [720]",
@@ -445,17 +445,10 @@
 				"url": "https://dlhd.st/stream/stream-537.php"
 				},
 				 {
- 
-      "name": "Dazn F1",
-      "info": "[Motor]",
-      "online": "true",
-      "image": "",
-      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "url": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.php",
-      "embed": "true",
-      "isHost": ""
-    
-                   
+                 "name": "DAZN F1 [1080]",
+				"info": "(3)",
+				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+				"url": "https://dlhd.st/stream/stream-537.php"
                 },
                 {
 				"name": "DAZN F1 [m3]",
@@ -501,6 +494,12 @@
 				"info": "67fc",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
 				"url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16" 
+				},
+               {
+				"name": "M #Vamos [1080]",
+				"info": "67fc",
+				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+				"url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479" 
 				},
 				{
 				"name": "M #Vamos",
