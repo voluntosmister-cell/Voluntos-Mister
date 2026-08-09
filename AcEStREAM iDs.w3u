@@ -525,21 +525,21 @@
 			[
 				{
 				"name": "DAZN Moto GP [1080]",
-				"info": "3122",
+				"info": "1",
 				"image": "https://i.postimg.cc/VkckM1N8/daznm.avif",
-				"url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea"
+				"url": "acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5"
 				},
                {
-				"name": "DAZN Moto GP [1080]",
-				"info": "3122",
+				"name": "DAZN Moto GP [Correcto]",
+				"info": "2",
 				"image": "https://i.postimg.cc/VkckM1N8/daznm.avif",
 				"url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
 				},
 				{
-				"name": "DAZN Moto GP [720]",
-				"info": "7fa0",
+				"name": "DAZN Moto GP [1080]",
+				"info": "3",
 				"image": "https://i.postimg.cc/VkckM1N8/daznm.avif",
-				"url": "acestream://129c707eb4854171d178a566f36d90b7f2b5e624"
+				"url": "acestream://11cbb5346d28af0b972e646832f4be23dd39502d" 
 				}
 			]
 		}
