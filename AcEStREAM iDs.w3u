@@ -158,9 +158,10 @@
 				},
 				{
 				"name": "DAZN LaLiga [1080] M3",
-				"info": "0b05",
+				"info": "Diferente",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "https://dlhd.st/cast/stream-538.php"
+				"url": "https://zicotv.cc/api/player/1",
+			     "isHost" : "true"    "
 				},
 				{
 				"name": "DAZN LaLiga 2 [720]",
