@@ -156,13 +156,18 @@
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 				"url": "acestream:/71cb5e2567a8b39f5bdc4fa791992781b052f0bc" 
 				},
-				{
-			"name": "DAZN Liga M3",
-			   "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
-                                                      "info" : "",
-         "url" : "https://zicotv.cc/api/player/1",
-			"isHost" : "true"    
-                        },
+				 {
+      "name": "Dazn liga m3",
+      "info": "[Canales extranjeros]",
+      "online": "true",
+      "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://zicotv.cc/",
+      "url": "https://zicotv.cc/api/player/1",
+      "embed": "",
+      "isHost": "true"
+              },
+                
 				{
 				"name": "DAZN LaLiga 2 [720]",
 				"info": "7a79",
