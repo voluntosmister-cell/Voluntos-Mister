@@ -115,10 +115,15 @@
                  "isHost": ""
                 },
                {
-				"name": "Directv Sport 2(LAT)",
-				"info":"9122",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061"
+				 "name": "Liga de campeones",
+      "info": "[Canales extranjeros]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "url": "https://streamx-hd.com/live1.php?stream=mligacampeones",
+      "embed": "true",
+      "isHost": "true"
                 }
 			]
 		},
