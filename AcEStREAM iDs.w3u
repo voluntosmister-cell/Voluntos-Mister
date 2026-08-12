@@ -313,11 +313,15 @@
       "isHost": "true"
                 },
 				{
-				"name": "M. Liga de Campeones 2 [1080]",
-				"info": "a393",
-				"image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
-				"url": "acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393"
-				},
+
+      "name": "M+ LIGA DE CAMPEONES online 2",
+      "info": "[Canales extranjeros]",
+      "online": "true",
+      "image": "g",
+      "userAgent": "",
+      "url": "https://streamx-hd.com/live1.php?stream=mligacampeones",
+      "embed": "",
+      "isHost": "true"
 				{
 				"name": "M. Liga de Campeones 2 [720]",
 				"info": "86f9",
