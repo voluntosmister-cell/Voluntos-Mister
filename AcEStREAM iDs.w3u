@@ -46,7 +46,7 @@
 		},
             {
 		"name": "Canales Deportivos Extranjeros",
-		"image": "",
+		"image": "https://i.postimg.cc/7LrMbwP3/Whats-App-Image-2026-08-11-at-20-03-52.jpg",
 		"imageScale": "",
 		"info":"",
 		"stations":
@@ -239,10 +239,10 @@
 				"url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa"
 				},
 				{
-				"name": "LaLiga HyperMotion [1080][ECano]",
+				"name": "LaLiga HyperMotion [1080]",
 				"info": "ad73f",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f"
+				"url": "acestream://135c420f704d717b8913b2a66b2722fd6b2c127c"
 				},
 				{
 				"name": "LaLiga HyperMotion [1080]",
