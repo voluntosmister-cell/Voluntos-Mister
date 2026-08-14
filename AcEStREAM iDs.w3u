@@ -184,7 +184,7 @@
 				"name": "M+ LaLiga Tv [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-				"url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c"
+				"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
 				},
 				{
 				"name": "M+ LaLiga Tv [1080]",
@@ -521,28 +521,40 @@
 			[
 				{
 				"name": "M #Vamos [1080]",
-				"info": "67fc",
+				"info": "1",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
 				"url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16" 
 				},
                {
 				"name": "M #Vamos [1080]",
-				"info": "67fc",
+				"info": "2",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
 				"url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479" 
 				},
 				{
 				"name": "M #Vamos",
-				"info": "b785",
+				"info": "3",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
 				"url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc"
 				},
                 {
                 "name": "M #Vamos [720]",
-				"info": "b785",
+				"info": "4",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
 				"url": "acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77"
-              }
+              },
+              {
+				"name": "M #Vamos N2",
+				"info": "1",
+				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+				"url": "acestream://5e310dbffed8c941d20ad819cb8ef43c34b07884"
+				},
+               {
+				"name": "M #Vamos N2",
+				"info": "2",
+				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+				"url": "acestream://763f307cd0af4007f11d24f56644c05bd64f7253"
+				}
 			]
 		},
 		{
