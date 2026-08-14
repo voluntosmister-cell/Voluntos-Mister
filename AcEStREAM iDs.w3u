@@ -259,13 +259,13 @@
      "name": "LaLiga HyperMotion (1080) ",
       "info": "[online]",
       "online": "true",
-      "image": ""https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png"",
+      "image": "\"https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png\"",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "https://zicotv.cc/",
       "url": "https://zicotv.cc/api/player/12",
       "embed": "",
-      "isHost": "true"
-				{,
+      "isHost": "true"},
+				{},
 
                 {
 				"name": "LaLiga HyperMotion 2",
