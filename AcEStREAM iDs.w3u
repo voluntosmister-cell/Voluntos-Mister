@@ -255,6 +255,7 @@
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
 				"url": "acestream://1f75d92098580443857caa95a719103cb83781b0"
 				},
+               {
      "name": "LaLiga HyperMotion (1080) ",
       "info": "[online]",
       "online": "true",
@@ -265,6 +266,8 @@
       "embed": "",
       "isHost": "true"
 				{,
+
+                {
 				"name": "LaLiga HyperMotion 2",
 				"info": "1",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
