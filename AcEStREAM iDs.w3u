@@ -233,35 +233,40 @@
 			[
 				{
 				"name": "LaLiga HyperMotion [1080][New Era]",
-				"info": "ca65fb",
+				"info": "1",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://c457b5614df986a6e6a24ffd9547964820ca65fb"
+				"url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f"
 				},
 				{
 				"name": "LaLiga HyperMotion [1080]",
-				"info": "8e3f",
+				"info": "2",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
 				"url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa"
 				},
 				{
 				"name": "LaLiga HyperMotion [1080]",
-				"info": "ad73f",
+				"info": "3",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
 				"url": "acestream://135c420f704d717b8913b2a66b2722fd6b2c127c"
 				},
 				{
 				"name": "LaLiga HyperMotion [1080]",
-				"info": "0040",
+				"info": "4",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://ee8ce83c44dc9b1e331672e2a0166e2830b00040"
+				"url": "acestream://1f75d92098580443857caa95a719103cb83781b0"
 				},
 				{
 				"name": "LaLiga HyperMotion 2",
-				"info": "db53",
+				"info": "1",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://59ba45b79152e4599144177b234f6491fc19db53"
+				"url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55"
+				},
+				{
+				"name": "LaLiga HyperMotion 2",
+				"info": "2",
+				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+				"url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb"
 				}
-				
 			]
 		},
 		{
