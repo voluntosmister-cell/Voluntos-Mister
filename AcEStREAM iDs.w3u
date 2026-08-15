@@ -87,10 +87,15 @@
 				"url": "acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065"
                 },
                {
-				"name": "DAZN 2 Mundial[1080]",
-				"info":"9122",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://63b1933154919d116f08e33ffcb31a23f9483989"
+	 "name": "M+ La Liga",
+      "info": "[Canales extranjeros]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://www.tvporinternet2.com/",
+      "url": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.php",
+      "embed": "https://embed.ksdjugfssddeports.com/embed2/movistarlaliga.php",
+      "isHost": ""
                 },
                 {
 				"name": "Directv Sport + 1[1080]",
