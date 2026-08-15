@@ -90,11 +90,11 @@
 	 "name": "M+ La Liga",
       "info": "[Canales extranjeros]",
       "online": "true",
-      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "image": "",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://www.tvporinternet2.com/",
-      "url": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.php",
-      "embed": "https://embed.ksdjugfssddeports.com/embed/movistarlaliga.php",
+      "referer": "https://dlhd.st/",
+      "url": "https://dlhd.st/watch.php?id=84",
+      "embed": "",
       "isHost": "True"
                 },
                 {
