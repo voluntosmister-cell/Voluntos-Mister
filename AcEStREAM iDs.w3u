@@ -74,11 +74,16 @@
       "isHost": "true"
     },
 
-				{
-				"name": "DAZN 1 Mundial [1080]",
-				"info":"f0bc",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507"
+				  {
+       "name": "ESPN Deportes",
+      "info": "[Online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/kXPDv2M4/ESPN-Deportes.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://zicotv.cc/",
+      "url": "https://zicotv.cc/api/player/10",
+      "embed": "",
+      "isHost": "True"
 				},
                 {
 				"name": "DAZN 1 Mundial [1080]",
