@@ -491,31 +491,36 @@
 				"name": "DAZN F1 [1080]",
 				"info": "(1)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
+				"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
 				},
 				{
 				"name": "DAZN F1 [1080]",
 				"info": "(2)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
+				"url": "acestream://acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
 				},
 				{
 				"name": "DAZN F1 [1080]",
 				"info": "(3)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "https://dlhd.st/stream/stream-537.php"
+				"url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19"
 				},
 				 {
                  "name": "DAZN F1 [1080]",
-				"info": "(3)",
+				"info": "(4)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "https://dlhd.st/stream/stream-537.php"
+				"url": "acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d"
                 },
                 {
-				"name": "DAZN F1 [m3]",
-				"info": "5",
-				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.php"
+				 "name": "DAZN F1",
+      "info": "[Online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://dlhd.st/",
+      "url": "https://dlstreams.st/watch.php?id=537",
+      "embed": "",
+      "isHost": "True"
 				}
 			]
 		},
