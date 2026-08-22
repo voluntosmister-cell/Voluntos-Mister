@@ -109,13 +109,13 @@
                 },
                 {
 				"name": "Directv Sport 1[1080] LAT",
-				"info":"ad49",
+				"info":"[Canales extranjeros]",
 				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
 				"url": "acestream://1b25b195b1b84d4b96830410657718e9e275ad49"
                 },
                {
 				"name": "TUDN",
-                 "info": "[]",
+                 "info": "[Canales extranjeros]",
                   "online": "true",
                    "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
                     "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -133,13 +133,17 @@
       "url": "https://la18hd.su/vivo/canales.php?stream=sky_sports_laliga",
       "embed": "",
       "isHost": "true"
-              }
+              },  
+              {
+				"name": "Match TV russian",
+				"info": "[Canales extranjeros]",
+				"image": "016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
+				"url": "3ace1463a7cad979c3a4002b245487e9982e9f1a"
+				  }
                 
 			]
 		},
-		
-		
-		{
+
 		"name": "LA LIGA EA SPORT",
 		"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
 		"imageScale": "",
