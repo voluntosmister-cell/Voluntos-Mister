@@ -106,6 +106,7 @@
       "url": "https://la18hd.su/vivo/canales.php?stream=dsportsplus",
       "embed": "",
       "isHost": "True"
+	
                 },
                 {
 				"name": "Directv Sport 1[1080] LAT",
@@ -140,11 +141,9 @@
 				"image": "016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
 				"url": "3ace1463a7cad979c3a4002b245487e9982e9f1a"
 			}
-                
 			]
-		    },
-            
-            {
+		},
+		{
 
 		"name": "LA LIGA EA SPORT",
 		"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
