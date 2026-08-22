@@ -43,7 +43,7 @@
                 }
 
 			]
-		},
+		   },
             {
 		"name": "Canales Deportivos Extranjeros",
 		"image": "https://i.postimg.cc/7LrMbwP3/Whats-App-Image-2026-08-11-at-20-03-52.jpg",
@@ -61,7 +61,7 @@
       "url": "https://la18hd.su/vivo/canales.php?stream=dsports",
       "embed": "",
       "isHost": "True"
-    },
+            },
 				{
       "name": "EspN 1",
       "info": "[Canales extranjeros]",
@@ -139,10 +139,12 @@
 				"info": "[Canales extranjeros]",
 				"image": "016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc",
 				"url": "3ace1463a7cad979c3a4002b245487e9982e9f1a"
-				  }
+			}
                 
 			]
-		},
+		    }
+            
+            {
 
 		"name": "LA LIGA EA SPORT",
 		"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
