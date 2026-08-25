@@ -68,8 +68,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su/",
-      "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=798",
       "embed": "",
       "isHost": "true"
               },
@@ -97,22 +97,27 @@
       "isHost": "True"
                 },
                 {
-				"name": "Directv Sport +",
-      "info": "[Canales extranjeros]",
+	   "name": "ESPN 3",
+      "info": "[online]",
       "online": "true",
-      "image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su",
-      "url": "https://la18hd.su/vivo/canales.php?stream=dsportsplus",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=798",
       "embed": "",
-      "isHost": "True"
+      "isHost": "true"
 	
                 },
                 {
-				"name": "Directv Sport 1[1080] LAT",
-				"info":"[Canales extranjeros]",
-				"image": "https://i.postimg.cc/yYWzbV0t/17810045533720.jpg",
-				"url": "acestream://1b25b195b1b84d4b96830410657718e9e275ad49"
+	 "name": "ESPN 4",
+      "info": "[online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=928",
+      "embed": "",
+      "isHost": "true"
                 },
                {
 				"name": "TUDN",
