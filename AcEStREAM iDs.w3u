@@ -596,10 +596,15 @@
 				"url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc"
 				},
                 {
-                "name": "M #Vamos [720]",
-				"info": "4",
-				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77"
+        "name": "M #VAMOS",
+      "info": "Online",
+      "online": "true",
+      "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=521",
+      "embed": "",
+      "isHost": "true"
               },
               {
 				"name": "M #Vamos N2",
