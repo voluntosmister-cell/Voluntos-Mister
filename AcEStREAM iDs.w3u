@@ -169,13 +169,18 @@
 				"info":"3",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 				"url": "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb"
-
 				},
-				{
-				"name": "DAZN LaLiga [720]",
+               {
+				"name": "DAZN LaLiga [1080]",
 				"info":"4",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "acestream://385abcf801b787eec6ed6624908758bb165c0a55" 
+				"url": "acestream://9c588ac92554746c489bc553773d959f6d2dfd8e"
+				},
+				{
+				"name": "DAZN LaLiga [1080]",
+				"info":"5",
+				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+				"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc" 
 				},
 				 {
       "name": "Dazn liga ",
@@ -183,8 +188,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://zicotv.cc/",
-      "url": "https://zicotv.cc/api/player/1",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=538",
       "embed": "",
       "isHost": "true"
               },
