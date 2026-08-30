@@ -16,7 +16,7 @@
 			[
 				
 				{
-				"name": "MOVISTAR PLUS + [1080] EC",
+				"name": "MOVISTAR PLUS + [1080] ",
 				"info":"1",
 				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
 				"url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70"
@@ -273,10 +273,10 @@
 		"stations":
 			[
 				{
-				"name": "LaLiga HyperMotion [1080][New Era]",
+				"name": "LaLiga HyperMotion [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f"
+				"url": "acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198"
 				},
 				{
 				"name": "LaLiga HyperMotion [1080]",
