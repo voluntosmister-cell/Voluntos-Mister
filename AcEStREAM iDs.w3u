@@ -38,7 +38,7 @@
 				"name": "MOVISTAR PLUS + [1080]",
 				"info":"4",
 				"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-				"url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336" 
+				"url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70" 
 
                 }
 
@@ -242,7 +242,7 @@
 				"url": "acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c"
 				},
    {
-"name": "M+ LaLiga Tv [1080]",
+                "name": "M+ LaLiga Tv [1080]",
 				"info": "5",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": "acestream://"
@@ -258,7 +258,8 @@
       "url": "https://dlstreams.st/watch.php?id=84",
       "embed": "",
       "isHost": "True"
-				},
+				},
+
 				{
 				"name": "M+ LaLiga Tv 2 [720p]",
 				"info": "1176",
@@ -523,13 +524,13 @@
 				"name": "DAZN F1 [1080]",
 				"info": "(2)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
+				"url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
 				},
 				{
 				"name": "DAZN F1 [1080]",
 				"info": "(3)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19"
+				"url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73"
 				},
 				 {
                  "name": "DAZN F1 [1080]",
@@ -585,19 +586,19 @@
 				"name": "M #Vamos [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16" 
+				"url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc" 
 				},
                {
 				"name": "M #Vamos [1080]",
 				"info": "2",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479" 
+				"url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98" 
 				},
 				{
 				"name": "M #Vamos",
 				"info": "3",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548"
+				"url": "acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77"
 				},
                 {
         "name": "M #VAMOS",
