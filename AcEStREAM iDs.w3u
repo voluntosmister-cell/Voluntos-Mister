@@ -47,10 +47,10 @@
       "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "https://deporte-libre.vip/",
-      "url": "https://deportelibre.icu/mpd2.php?id=canal-0-op2",
+      "url": "https://deportelibre.icu/mpd2.php?id=canal-0-op2\"",
       "embed": "",
       "isHost": "True"
-            },
+            }
 
 			]
 		   },
