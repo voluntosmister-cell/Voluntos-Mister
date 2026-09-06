@@ -130,14 +130,15 @@
       "isHost": "true"
                 },
                {
-				"name": "TUDN",
-                 "info": "[Canales extranjeros]",
-                  "online": "true",
-                   "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
-                    "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-                   "url": "https://streamx488.sbs/global1.php?channel=tudnus",
-                   "embed": "true",
-                 "isHost": ""
+	 "name": "1º FEDERACION (RFEF)",
+      "info": "[online]",
+      "online": "true",
+      "image": "https://i.postimg.cc/52rt7GQH/3915-4251-672-2rps20220722-073043.jpg",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "https://zicotv.cc/",
+      "url": "https://zicotv.cc/api/player/46937",
+      "embed": "",
+      "isHost": "true"
                 },
                {
 		"name": "SKY SPORT LA LIGA",
