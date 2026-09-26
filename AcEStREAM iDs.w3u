@@ -50,11 +50,13 @@
       "url": "https://dlive.sk/watch.php?id=437",
       "embed": "true",
       "isHost": ""
-            },
+            
+      },
 
-			
-		   
+			]
+		   },
             {
+			
 		"name": "Canales Deportivos Extranjeros",
 		"image": "https://i.postimg.cc/7LrMbwP3/Whats-App-Image-2026-08-11-at-20-03-52.jpg",
 		"imageScale": "",
@@ -732,4 +734,4 @@
 			]
 		}
 	] 
-}]}
+}
