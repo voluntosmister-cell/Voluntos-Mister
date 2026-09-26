@@ -52,8 +52,8 @@
       "isHost": "True"
             },
 
-			]
-		   },
+			
+		   
             {
 		"name": "Canales Deportivos Extranjeros",
 		"image": "https://i.postimg.cc/7LrMbwP3/Whats-App-Image-2026-08-11-at-20-03-52.jpg",
@@ -732,6 +732,4 @@
 			]
 		}
 	] 
-}
-		
-		
+}]}
