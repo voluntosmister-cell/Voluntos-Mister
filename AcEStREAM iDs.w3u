@@ -46,9 +46,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://deporte7-libre.live/",
-      "url": "https://deporte7-libre.live/total/stream-437.php",
-
+      "referer": "https://dlive.sx/",
+      "url": "https://dlive.sx/watch.php?id=437",
       "embed": "",
       "isHost": "True"
             },
@@ -79,8 +78,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su/",
-      "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+      "referer": "https://dlive.sx/",
+      "url": "https://dlive.sx/watch.php?id=149",
       "embed": "",
       "isHost": "True"
               },
@@ -136,8 +135,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/NFvpCL1s/disney-pcpal.webp",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su/",
-      "url": "https://la18hd.su/vivo/canales.php?stream=disney1",
+      "referer": "https://streamxhd.com/",
+      "url": "https://streamxhd.com/live1.php?stream=disney14",
       "embed": "true",
       "isHost": ""
                 },
@@ -148,8 +147,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/brPwV3SM/NFL-NETWORK.jpg",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://dlive.sx/",
-      "url": "https://dlive.sx/watch.php?id=405",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=405",
       "embed": "",
       "isHost": "true"
                 },
@@ -492,7 +491,7 @@
       "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "https://dlstreams.st/",
-      "url": "https://dlive.sx/watch.php?id=436",
+      "url": "https://dlstreams.st/watch.php?id=436",
       "embed": "",
       "isHost": "True"
 				},
@@ -592,13 +591,13 @@
 				"name": "DAZN F1 [1080]",
 				"info": "(2)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4"
+				"url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
 				},
 				{
 				"name": "DAZN F1 [1080]",
 				"info": "(3)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://d719181097d256073844390b3e094fbcb1bceaa4"
+				"url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
 				},
 				 {
                  "name": "DAZN F1 [1080]",
@@ -613,8 +612,8 @@
       "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "https://streamxhd.com/",
-      "url": "https://streamxhd.com/live2.php?stream=daznf1",
-      "embed": "true",
+      "url": "https://streamxhd.com/live1.php?stream=daznf1",
+      "embed": "True",
       "isHost": ""
 				}
 			]
@@ -633,13 +632,13 @@
 				"name": "EuroSport 1 [1080]",
 				"info":"1",
 				"image": "https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png",
-				"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
+				"url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
 				},
 				{
 				"name": "EuroSport 1 [1080]",
 				"info":"2",
 				"image": "https://i.postimg.cc/PxH32mh2/eurosport2-new.png",
-				"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
+				"url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a"
 				}
 			]
 		},
