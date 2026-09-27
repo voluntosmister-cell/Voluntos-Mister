@@ -50,7 +50,7 @@
       "url": "https://matchora.to/channel/1973072",
       "embed": "",
       "isHost": "true"
-            },
+            }
 			]
 		   },
             {
@@ -59,7 +59,8 @@
 		"imageScale": "",
 		"info":"",
 		"stations":
-			[
+                  [
+
                		{
       "name": "Directv Sports",
       "info": "[Canales extranjeros]",
@@ -139,7 +140,6 @@
       "embed": "true",
       "isHost": ""
                 },
-
                {
 	  "name": "NFL Network",
       "info": "[online]",
