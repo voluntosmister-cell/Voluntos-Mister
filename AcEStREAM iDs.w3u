@@ -67,8 +67,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://www.tvporinternet.org/",
-      "url": "https://www.tvporinternet.org/directv-sports-en-vivo-online.php",
+      "referer": "https://la18hd.su/",
+      "url": "https://la18hd.su/vivo/canales.php?stream=dsports",
       "embed": "",
       "isHost": "True"
             },
@@ -153,13 +153,13 @@
       "isHost": "true"
                 },
                {
-	  "name": "NFL REDZONE",
+	  "name": "NFL REDZONE/ ESPN (USA)",
       "info": "[online]",
       "online": "true",
       "image": "https://i.postimg.cc/QMWNXRpS/NFL.jpg",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://dlstreams.st/",
-      "url": "https://dlstreams.st/watch.php?id=667",
+      "referer": "https://cracktv.me/",
+      "url": "https://cracktv.me/football/espn-online",
       "embed": "",
       "isHost": "true"
                 },
@@ -324,13 +324,13 @@
 				"name": "LaLiga HyperMotion [1080]",
 				"info": "3",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f"
+				"url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe"
 				},
 				{
 				"name": "LaLiga HyperMotion [1080]",
 				"info": "4",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": ""
+				"url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa"
 				},
                {
      "name": "LaLiga HyperMotion (1080) ",
@@ -511,7 +511,7 @@
 		"stations":
 			[
               {
-		"name": "DAZN Baloncesto 1",
+	 "name": "DAZN Baloncesto 1",
       "info": "[Online]",
       "online": "true",
       "image": "https://i.postimg.cc/7Y3YXf3V/dazn-baloncesto-movistar-plus.webp",
@@ -638,7 +638,7 @@
 				"name": "EuroSport 1 [1080]",
 				"info":"2",
 				"image": "https://i.postimg.cc/PxH32mh2/eurosport2-new.png",
-				"url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a"
+				"url": "acestream://e541a954465df29ccce4d829529d983ffb2803d4"
 				}
 			]
 		},
@@ -653,7 +653,7 @@
 				"name": "M #Vamos [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548" 
+				"url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc" 
 				},
                {
 				"name": "M #Vamos [1080]",
