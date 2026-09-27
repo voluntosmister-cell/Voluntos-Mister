@@ -41,16 +41,17 @@
 				"url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70" 
                 },
                {
-      "name": "M+ Plus",
-      "info": "[Online]",
-      "online": "true",
-      "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://dlive.sx/",
-      "url": "https://dlive.sx/watch.php?id=437",
-      "embed": "",
-      "isHost": "True"
-            },
+    "name": "MOVISTAR PLUS"
+    "info": "online"
+    "id": "1973072",
+     "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+    "home": "",
+    "league": "",
+    "kickoff": "", 
+     "live": true,
+    "channel_count": "",
+    "embed_url": "https://matchora.to/embed/channel/1973072"
+           },
 
 			]
 		   },
