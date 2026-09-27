@@ -46,11 +46,12 @@
       "online": "true",
       "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://matchora.to/",
-      "url": "https://matchora.to/channel/1973072",
+      "referer": "https://dlive.sx/",
+      "url": "https://dlive.sx/watch.php?id=437",
       "embed": "",
-      "isHost": "true"
-            }
+      "isHost": "True"
+            },
+
 			]
 		   },
             {
@@ -59,18 +60,17 @@
 		"imageScale": "",
 		"info":"",
 		"stations":
-                  [
-
+			[
                		{
       "name": "Directv Sports",
       "info": "[Canales extranjeros]",
       "online": "true",
       "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://matchora.to/",
-      "url": "https://matchora.to/channel/656326",
+      "referer": "https://www.tvporinternet.org/",
+      "url": "https://www.tvporinternet.org/directv-sports-en-vivo-online.php",
       "embed": "",
-      "isHost": "true"
+      "isHost": "True"
             },
 				{
       "name": "EspN 1",
@@ -78,19 +78,20 @@
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su/",
-      "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+      "referer": "https://www.tvporinternet.org/",
+      "url": "https://www.tvporinternet.org/espn-colombia-en-vivo-online.php",
       "embed": "",
-      "isHost": "true"
+      "isHost": "True"
               },
+
 				  {
        "name": "ESPN Deportes",
       "info": "[Online]",
       "online": "true",
       "image": "https://i.postimg.cc/kXPDv2M4/ESPN-Deportes.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://zlive.st/",
-      "url": "https://zlive.st/watch/auto-espn-deportes",
+      "referer": "",
+      "url": "https://la18hd.su/vivo/canales.php?stream=espndeportes",
       "embed": "",
       "isHost": "true"
 				},
@@ -103,10 +104,9 @@
       "referer": "https://la18hd.su",
       "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
       "embed": "",
-      "isHost": "true"
+      "isHost": "True"
                 },
                 {
-
 	   "name": "ESPN 3",
       "info": "[online]",
       "online": "true",
@@ -140,6 +140,7 @@
       "embed": "true",
       "isHost": ""
                 },
+
                {
 	  "name": "NFL Network",
       "info": "[online]",
@@ -152,13 +153,13 @@
       "isHost": "true"
                 },
                {
-	  "name": "NFL REDZONE/ ESPN (USA)",
+	  "name": "NFL REDZONE",
       "info": "[online]",
       "online": "true",
       "image": "https://i.postimg.cc/QMWNXRpS/NFL.jpg",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://zicotv.cc/",
-      "url": "https://zicotv.cc/channels/48947",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=667",
       "embed": "",
       "isHost": "true"
                 },
@@ -194,7 +195,7 @@
 		"imageScale": "",
 		"info":"fútbol",
 		"stations":
-		       [
+			[
 				{
 				"name": "DAZN LaLiga [1080P]",
 				"info": "1",
@@ -274,13 +275,13 @@
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": "acestream://0febfb5cac3384f487d55c559bbfc877db2d0357"
 				},
-                {
+   {
                 "name": "M+ LaLiga Tv [1080]",
 				"info": "5",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": ""
 
-               },
+      },
                {
        "name": "M+ La Liga",
       "info": "[Online]",
@@ -323,13 +324,13 @@
 				"name": "LaLiga HyperMotion [1080]",
 				"info": "3",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe"
+				"url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f"
 				},
 				{
 				"name": "LaLiga HyperMotion [1080]",
 				"info": "4",
 				"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-				"url": "acestream://2c54a4def58f41fc0d2163450a63f12955b656aa"
+				"url": ""
 				},
                {
      "name": "LaLiga HyperMotion (1080) ",
@@ -489,8 +490,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://freestreams-live1h.pk/",
-      "url": "https://freestreams-live1h.pk/movistar-deportes4/",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=436",
       "embed": "",
       "isHost": "True"
 				},
@@ -510,7 +511,7 @@
 		"stations":
 			[
               {
-	 "name": "DAZN Baloncesto 1",
+		"name": "DAZN Baloncesto 1",
       "info": "[Online]",
       "online": "true",
       "image": "https://i.postimg.cc/7Y3YXf3V/dazn-baloncesto-movistar-plus.webp",
@@ -637,7 +638,7 @@
 				"name": "EuroSport 1 [1080]",
 				"info":"2",
 				"image": "https://i.postimg.cc/PxH32mh2/eurosport2-new.png",
-				"url": "acestream://e541a954465df29ccce4d829529d983ffb2803d4"
+				"url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a"
 				}
 			]
 		},
@@ -652,7 +653,7 @@
 				"name": "M #Vamos [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc" 
+				"url": "acestream://651d6be899d1fafa107a265a9dc00ff914c1b548" 
 				},
                {
 				"name": "M #Vamos [1080]",
@@ -672,8 +673,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://matchora.to/",
-      "url": "https://matchora.to/channel/1547292",
+      "referer": "https://dlstreams.st/",
+      "url": "https://dlstreams.st/watch.php?id=521",
       "embed": "",
       "isHost": "true"
               },
