@@ -49,9 +49,8 @@
       "referer": "https://matchora.to/",
       "url": "https://matchora.to/channel/1973072",
       "embed": "",
-      "isHost": "True"
+      "isHost": "true"
             },
-
 			]
 		   },
             {
@@ -70,7 +69,7 @@
       "referer": "https://matchora.to/",
       "url": "https://matchora.to/channel/656326"",
       "embed": "",
-      "isHost": "True"
+      "isHost": "true"
             },
 				{
       "name": "EspN 1",
@@ -83,7 +82,6 @@
       "embed": "",
       "isHost": "true"
               },
-
 				  {
        "name": "ESPN Deportes",
       "info": "[Online]",
@@ -104,9 +102,10 @@
       "referer": "https://la18hd.su",
       "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
       "embed": "",
-      "isHost": "True"
+      "isHost": "true"
                 },
                 {
+
 	   "name": "ESPN 3",
       "info": "[online]",
       "online": "true",
@@ -195,7 +194,7 @@
 		"imageScale": "",
 		"info":"fútbol",
 		"stations":
-			[
+		       [
 				{
 				"name": "DAZN LaLiga [1080P]",
 				"info": "1",
@@ -275,13 +274,13 @@
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": "acestream://0febfb5cac3384f487d55c559bbfc877db2d0357"
 				},
-   {
+                {
                 "name": "M+ LaLiga Tv [1080]",
 				"info": "5",
 				"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 				"url": ""
 
-      },
+               },
                {
        "name": "M+ La Liga",
       "info": "[Online]",
