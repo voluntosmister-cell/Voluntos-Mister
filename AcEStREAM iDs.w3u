@@ -232,8 +232,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://dlive.sx/",
-      "url": "https://dlive.sx/watch.php?id=538",
+      "referer": "https://www.matchdirect.live/",
+      "url": "https://mediahostexpert.top/embed/player?config=4afa10d0-0cdc-4c97-af70-9b359d414edc",
       "embed": "",
       "isHost": "true"
               },
@@ -288,10 +288,10 @@
       "online": "true",
       "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "url": "https://embedme.click/player/3/49",
+      "referer": "https://zicotv.cc/",
+      "url": "https://zicotv.cc/api/player/4",
       "embed": "",
-      "isHost": "True"
+      "isHost": "true"
 				},
 
 				{
@@ -338,10 +338,10 @@
       "online": "true",
       "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-      "embed": "true",
-      "isHost": ""
+      "referer": "https://la18hd.su/",
+      "url": "https://la18hd.su/vivo/canales.php?stream=hypermotion1",
+      "embed": "",
+      "isHost": "true"
 				},
                 {
 				"name": "LaLiga HyperMotion 2",
