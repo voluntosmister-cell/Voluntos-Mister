@@ -402,8 +402,8 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
       "referer": "https://sportsbite.org/247/mligadecampeones",
       "url": "https://sportsbite.org/247/mligadecampeones",
-      "embed": "true",
-      "isHost": ""
+      "embed": "",
+      "isHost": "true"
 				 
                 
                 },
