@@ -67,8 +67,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://www.tvporinternet.org/",
-      "url": "https://www.tvporinternet.org/directv-sports-en-vivo-online.php",
+      "referer": "https://la18hd.su/",
+      "url": "https://la18hd.su/vivo/canales.php?stream=dsportsplus",
       "embed": "",
       "isHost": "true"
             },
@@ -90,8 +90,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/kXPDv2M4/ESPN-Deportes.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://zlive.st/",
-      "url": "https://zlive.st/watch/auto-espn-deportes",
+      "referer": "https://matchora.to/",
+      "url": "https://matchora.to/channel/1921358",
       "embed": "",
       "isHost": "true"
 				},
@@ -490,10 +490,10 @@
       "online": "true",
       "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://dlstreams.st/",
-      "url": "https://dlstreams.st/watch.php?id=436",
+      "referer": "https://matchora.to/",
+      "url": "https://matchora.to/channel/107546",
       "embed": "",
-      "isHost": "True"
+      "isHost": "true"
 				},
 				{
 				"name": "M Deportes 2 [1080]",
@@ -611,8 +611,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://zlive.st/",
-      "url": "https://zlive.st/watch/auto-dazn-f1",
+      "referer": "https://matchora.to/",
+      "url": "https://matchora.to/channel/2139025",
       "embed": "",
       "isHost": "true"
 				}
