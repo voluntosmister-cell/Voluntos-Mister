@@ -591,7 +591,7 @@
 				"name": "DAZN F1 [1080]",
 				"info": "(2)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": ""
+				"url": "acestream://83546ce8634122c7431e46eac761976cd7b26f52"
 				},
 				{
 				"name": "DAZN F1 [1080]",
@@ -603,7 +603,7 @@
                  "name": "DAZN F1 [1080]",
 				"info": "(4)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://6d325cda6ed591647ef5e91edd043147bce8be30"
+				"url": "acestream://bde2ac5ffed80b519662cc740b173999d831f44c"
                 },
                 {
 		"name": "DAZN F1",
@@ -653,19 +653,19 @@
 				"name": "M #Vamos [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://08d26b5d9bf456ae21e968f0f85375925ff510e3" 
+				"url": "acestream://9cecca3c855cf7d2e000264e5c26caafaf21c9a2" 
 				},
                {
 				"name": "M #Vamos [1080]",
 				"info": "2",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://8ac2ad3d86aee7bd9ae0f6c7a7962aa85299d523" 
+				"url": "acestream://ae7d5dd1190e6eb5fef0b5f03d0b60e2f9b8f16b" 
 				},
 				{
 				"name": "M #Vamos 1080",
 				"info": "3",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://1df7ce7d3912f2bff730f14df8beaeb2d73c49b4"
+				"url": "acestream://87489dce3f983980fd2e9c3ea418ad164710004d"
 				},
                 {
         "name": "M #VAMOS",
@@ -682,7 +682,7 @@
 				"name": "M #Vamos N2",
 				"info": "1",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://837883625d40e1eb5566eefaf74811046491f53a"
+				"url": "acestream://f75efb1ab987e9b207daccb9a3d49efa056bdd95"
 				},
                {
 				"name": "M #Vamos N2",
