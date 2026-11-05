@@ -389,7 +389,7 @@
 				"url": "acestream://5e6173b43eae5c16e65c411bd6f2006e7dd7744e"
 				},
 				{
-				"name": "M. Liga de Campeones [720]",
+				"name": "M. Liga de Campeones [1080]",
 				"info": "5",
 				"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 				"url": "acestream://160e657985e1bb04ce216e8d180580f96df553bb"
@@ -400,8 +400,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "url": "https://damitv.st/channel/movistar-liga-de-campeones",
+      "referer": "https://matchora.to",
+      "url": "https://matchora.to/channel/2068307",
       "embed": "",
       "isHost": "true"
 				 
