@@ -585,28 +585,28 @@
 				"name": "DAZN F1 [1080]",
 				"info": "(1)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://78120f3068756d9f821a423570ca9bdcc98b8fa4"
+				"url": "acestream://dc149729d6b4be6ae8199eae450611d1d06e5149"
 				},
 				{
 				"name": "DAZN F1 [1080]",
 				"info": "(2)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://0295e6b7930a468ac98475b3ebeec18e4b75986a"
+				"url": "acestream://7017fea3b65e2f08a6d2f410b9b17c5c4c5b265b"
 				},
 				{
 				"name": "DAZN F1 [1080]",
 				"info": "(3)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://91823ce98b319e417da089e4b977eaa6a90a2218"
+				"url": "acestream://4236714aa65e854f90bb6b710369bfb6e862cb23"
 				},
 				 {
                  "name": "DAZN F1 [1080]",
 				"info": "(4)",
 				"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-				"url": "acestream://bde2ac5ffed80b519662cc740b173999d831f44c"
+				"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
                 },
                 {
-		"name": "DAZN F1",
+	  "name": "DAZN F1",
       "info": "[Online]",
       "online": "true",
       "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
