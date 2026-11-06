@@ -206,7 +206,7 @@
 				"name": "DAZN LaLiga [1080]",
 				"info":"2",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "acestream://521743597320cfd3687c673cf92b6e9906158b09"
+				"url": "acestream://5bf898b0ffc2ca662b898a424a988a922ab88abd"
 				},
                {
 				"name": "DAZN LaLiga [1080]",
@@ -218,7 +218,7 @@
 				"name": "DAZN LaLiga [1080]",
 				"info":"4",
 				"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-				"url": "acestream://8c0fa8c0f1be146dcc64a94e37c64993df86c72a"
+				"url": "acestream://599fb52eba4bd937b2029210bdeca9f1a34a32da"
 				},
 				{
 				"name": "DAZN LaLiga [1080]",
@@ -547,7 +547,7 @@
 				"name": "DAZN 1 [1080]",
 				"info": "2",
 				"image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
-				"url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+				"url": "acestream://7dfdad16b3f6e75015a3496f43f3a7d290f3e3bc"
 				},
 				{
 	  "name": "DAZN 1",
@@ -568,9 +568,9 @@
 				},
 				{
 				"name": "DAZN 2 [1080]",
-				"info": "bd97",
+				"info": "2",
 				"image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
-				"url": "acestream://c93a0d4914713db942fbb210bac467b0224c63a6"
+				"url": "acestream://e748e196d4f26edd7e743cd0d901bfc23d807794"
 			}
 			]
 		},
@@ -632,13 +632,13 @@
 				"name": "EuroSport 1 [1080]",
 				"info":"1",
 				"image": "https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png",
-				"url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
+				"url": "acestream://ca185612d5b5b6e863a16fc0177e8a6db1d1d3c2"
 				},
 				{
 				"name": "EuroSport 1 [1080]",
 				"info":"2",
 				"image": "https://i.postimg.cc/PxH32mh2/eurosport2-new.png",
-				"url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a"
+				"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
 				}
 			]
 		},
@@ -653,19 +653,19 @@
 				"name": "M #Vamos [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://9cecca3c855cf7d2e000264e5c26caafaf21c9a2" 
+				"url": "acestream://1b0374aae74e9792034b21298d6b3dfa25bc60c1" 
 				},
                {
 				"name": "M #Vamos [1080]",
 				"info": "2",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://ae7d5dd1190e6eb5fef0b5f03d0b60e2f9b8f16b" 
+				"url": "acestream://9e5da99bac88a4a3ed200d3bdf260b683145ca57" 
 				},
 				{
 				"name": "M #Vamos 1080",
 				"info": "3",
 				"image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
-				"url": "acestream://87489dce3f983980fd2e9c3ea418ad164710004d"
+				"url": "acestream://9311a4590f5966acbb77e4c2d13e1be17fd258b4"
 				},
                 {
         "name": "M #VAMOS",
@@ -673,8 +673,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://matchora.to/",
-      "url": "https://matchora.to/channel/1547292",
+      "referer": "",
+      "url": "https://e.biboguv.cyou/hls/1547292/index.m3u8?t=MTU0NzI5MnwxNzkzOTU4MDcxfHx8fDQ3N2YxNTcz.dyxNewABwboyEheX6D9YLVMbat_zwvuWdGFn1z8hiXE",
       "embed": "",
       "isHost": "true"
               },
@@ -703,7 +703,7 @@
 				"name": "DAZN Moto GP [1080]",
 				"info": "1",
 				"image": "https://i.postimg.cc/VkckM1N8/daznm.avif",
-				"url": "acestream://d31124c7375eea96eb04c76f28362fdab3dac9c8"
+				"url": "acestream://002ebb242685b729fd1235fc24c93110593343a6"
 				},
                 {
 				"name": "DAZN Moto GP [1080]",
