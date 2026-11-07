@@ -674,7 +674,7 @@
       "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
-      "url": "https://e.biboguv.cyou/hls/1547292/index.m3u8?t=MTU0NzI5MnwxNzkzOTU4MDcxfHx8fDQ3N2YxNTcz.dyxNewABwboyEheX6D9YLVMbat_zwvuWdGFn1z8hiXE",
+      "url": "https://embedme.click/player/3/55",
       "embed": "",
       "isHost": "true"
               },
@@ -715,7 +715,7 @@
 				"name": "DAZN Moto GP [1080]",
 				"info": "3",
 				"image": "https://i.postimg.cc/VkckM1N8/daznm.avif",
-				"url": "acestream://49ceb0e5d2c2c41fcbe6ed56d78eb78559aa1dca"
+				"url": "acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11"
 				},
                {
 				"name": "DAZN Moto GP [1080]",
@@ -724,10 +724,15 @@
 				"url": "acestream://72b447705d03e4f43b8787c4a33ba4aa7f51b9ae"
 				},
 				{
-				"name": "DAZN Moto GP [1080]",
-				"info": "5",
-				"image": "https://i.postimg.cc/VkckM1N8/daznm.avif",
-				"url": "acestream://27fdc342ae5fae5012eaf9502415107d94eb1f11" 
+	  "name": "DAZN Moto Gp [1080]",
+      "info": "Online",
+      "online": "true",
+      "image": "https://i.postimg.cc/VkckM1N8/daznm.avif",
+      "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "url": "https://embedme.click/player/3/67",
+      "embed": "",
+      "isHost": "true"
 				}
 			]
 		}
