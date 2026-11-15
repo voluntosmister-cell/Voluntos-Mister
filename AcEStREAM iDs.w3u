@@ -47,7 +47,7 @@
       "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
       "referer": "",
-      "url": "https://thedaddy.li/stream/stream-437.php",
+      "url": "https://bp.zicotv.cc/api/player/12",
       "embed": "true",
       "isHost": ""
             },
@@ -67,8 +67,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/ZqNnw90D/DSports.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su/",
-      "url": "https://la18hd.su/vivo/canales.php?stream=dsports_op2",
+      "referer": "",
+      "url": "https://streamtp99a.sbs/global1.php?stream=dsports",
       "embed": "",
       "isHost": "true"
             },
@@ -79,7 +79,7 @@
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "https://la18hd.su/",
-      "url": "https://la18hd.su/vivo/canales.php?stream=espn",
+      "url": "https://streamtp99a.sbs/global1.php?stream=espn",
       "embed": "",
       "isHost": "true"
               },
@@ -101,8 +101,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su",
-      "url": "https://la18hd.su/vivo/canales.php?stream=espn2",
+      "referer": "",
+      "url": "https://streamtp99a.sbs/global1.php?stream=espn2",
       "embed": "",
       "isHost": "True"
                 },
@@ -112,8 +112,8 @@
       "online": "true",
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "https://la18hd.su",
-      "url": "https://la18hd.su/vivo/canales.php?stream=espn3",
+      "referer": "",
+      "url": "https://streamtp99a.sbs/global1.php?stream=espn3",
       "embed": "",
       "isHost": "true"
 	
@@ -125,7 +125,7 @@
       "image": "https://i.postimg.cc/W4QgfGDh/ESPN.png",
       "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "https://la18hd/",
-      "url": "https://la18hd.su/vivo/canales.php?stream=espn4",
+      "url": "https://streamtp99a.sbs/global1.php?stream=espn4",
       "embed": "",
       "isHost": "true"
                 },
